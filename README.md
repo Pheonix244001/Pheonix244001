@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Smart Contract Auditing**
 
-- 📝 I regularly write articles on [pheonix244001.substack.com](pheonix244001.substack.com)
+- 📝 I regularly write articles on [Substack](https://pheonix244001.substack.com/)
 
 - 📫 How to reach me **technofever0@gmail.com**
 
