@@ -3,9 +3,16 @@
 
 <p align="left"> <a href="https://twitter.com/pheonix244001" target="blank"><img src="https://img.shields.io/twitter/follow/pheonix244001?logo=twitter&style=for-the-badge" alt="pheonix244001" /></a> </p>
 
+- 🌱 I’m currently learning **Smart Contract Auditing**
+
+- 📝 I regularly write articles on [pheonix244001.substack.com](pheonix244001.substack.com)
+
+- 📫 How to reach me **technofever0@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pheonix244001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pheonix244001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhinav sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav sharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
