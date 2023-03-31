@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Smart Contract Auditing** and **ERC-4337 Account Abstraction Using ALt MemPool**
 
-- 📝 I regularly write articles on [Substack](https://pheonix244001.substack.com/)
+- 📝 A glimpse of my securuem database [Notion](https://pheonix244001.notion.site/f746d2da184243409783036825137fa8?v=b3b4d30251154d61b265c62b1eae4116)
 
 - 📫 How to reach me **technofever0@gmail.com**
  <h3 align="left">Connect with me:</h3>
