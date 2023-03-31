@@ -33,6 +33,8 @@
 
 • Familiar with `fungible ( ERC-20 ) ` and `non-fungible (ERC-721)` token standards  and common `proxy patterns (ERC-1822 , 2535)` 
 
+• Confident with common DeFi mechanics (AMMs, lending, collateral, staking, etc..) [Watched this playlist](https://www.youtube.com/@campbellharvey/playlists)
+
 • Completed Full Stack Web3 Development Course with Javascript and Hardhat by Patrick Collins
 
 • Completed `Ethernaut`
