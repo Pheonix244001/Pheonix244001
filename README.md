@@ -35,7 +35,7 @@
 
 • Confident with common DeFi mechanics (AMMs, lending, collateral, staking, etc..) [Watched this playlist](https://www.youtube.com/@campbellharvey/playlists)
 
-• Completed Full Stack Web3 Development Course with Javascript and Hardhat by Patrick Collins
+• Completed [Full Stack Web3 Development Course with Javascript and Hardhat by Patrick Collins](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 
 • Completed `Ethernaut`
 
