@@ -3,11 +3,49 @@
 
 <p align="left"> <a href="https://twitter.com/pheonix244001" target="blank"><img src="https://img.shields.io/twitter/follow/pheonix244001?logo=twitter&style=for-the-badge" alt="pheonix244001" /></a> </p>
 
-- 🌱 I’m currently learning **Smart Contract Auditing**
+- 🌱 I’m currently learning **Smart Contract Auditing** and **ERC-4337 Account Abstraction Using ALt MemPool**
 
 - 📝 I regularly write articles on [Substack](https://pheonix244001.substack.com/)
 
 - 📫 How to reach me **technofever0@gmail.com**
+
+
+## **My Experience**
+
+
+###  CODE4RENA
+             
+• Warden on Code4rena . Submitted 6 Gas optimization and Qa reports with
+• 149 in last 60 days LeaderBoards / 662 in Overall LeaderBoards
+            
+### LEARNING EXPERIENCE
+
+• Completed `Secureuem Bootcamp`
+
+• Intermediate Knowledge in `Foundry` Framework and writing POC's
+
+• Read `Ethereum Yellow Paper` 
+
+• Familiar with `fungible ( ERC-20 ) ` and `non-fungible (ERC-721)` token standards  and common `proxy patterns (ERC-1822 , 2535)` 
+
+• Completed Full Stack Web3 Development Course with Javascript and Hardhat by Patrick Collins
+
+• Completed `Ethernaut`
+
+• Currently Doing `Damn Vulnerable Defi`
+
+### Internships
+            GURUGRAM POLICE CYBERSECURITY SUMMER INTERNSHIP AT HARYANA POLICE
+            June 2021 – July 2021
+            CYBERSECURITY INTERNSHIP AT JPMORGAN CHASE & CO.
+            April 2022 – April 2022
+            Education
+            Dr. A.P.J. Abdul Kalam Technical University, B.Tech ( Information Technology )
+            2020 – 2024
+            XII - P.M.S Public School
+            2019
+  
+         
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
