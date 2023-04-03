@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pheonix244001" target="blank"><img src="https://img.shields.io/twitter/follow/pheonix244001?logo=twitter&style=for-the-badge" alt="pheonix244001" /></a> </p>
 
-- 🌱 I’m currently learning **Smart Contract Auditing** and **ERC-4337 Account Abstraction Using ALt MemPool**
+- 🌱 I’m currently learning **Smart Contract Security** and **ERC-4337 Account Abstraction Using ALt MemPool**
 
 - 📝 A glimpse of my securuem database [Notion](https://pheonix244001.notion.site/f746d2da184243409783036825137fa8?v=b3b4d30251154d61b265c62b1eae4116)
 
