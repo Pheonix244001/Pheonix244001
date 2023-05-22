@@ -15,7 +15,7 @@
 
 
 ###  CODE4RENA / SHERLOCK 
-[My participate contests in Code4rena and Sherlock](https://github.com/Pheonix244001/Participated-Contests.git)
+[My participated contests in Code4rena and Sherlock](https://github.com/Pheonix244001/Participated-Contests.git)
              
            
 ### LEARNING EXPERIENCE
