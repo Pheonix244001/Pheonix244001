@@ -11,7 +11,7 @@
 </p>
 
 
-## **My Experience**
+## **Smart Contract Security Experience**
 
 
 ###  CODE4RENA / SHERLOCK 
@@ -31,13 +31,15 @@
 
 • Familiar with `fungible ( ERC-20 ) ` and `non-fungible (ERC-721)` token standards  and common `proxy patterns (ERC-1822 , 2535)` 
 
-• Confident with common DeFi mechanics (AMMs, lending, collateral, staking, etc..) [Watched this playlist](https://www.youtube.com/@campbellharvey/playlists)
+• Confident with common DeFi mechanics (AMMs, lending, collateral, staking, etc..) 
 
 • Completed [Full Stack Web3 Development Course with Javascript and Hardhat by Patrick Collins](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 
 • Completed `Ethernaut`
 
-• Currently Doing `Damn Vulnerable Defi`
+### Personal Blog
+[Ethereum Yellow Paper Explained](https://pheonix244001.substack.com/p/ethereum-yellow-paper-explained?r=1hy531&utm_campaign=post&utm_medium=web)
+
 
 ### Internships
             GURUGRAM POLICE CYBERSECURITY SUMMER INTERNSHIP AT HARYANA POLICE
