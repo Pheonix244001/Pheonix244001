@@ -16,6 +16,9 @@
 
 ###  CODE4RENA / SHERLOCK 
 [My participated contests in Code4rena and Sherlock](https://github.com/Pheonix244001/Participated-Contests.git)
+
+### Personal Blog
+[Ethereum Yellow Paper Explained](https://pheonix244001.substack.com/p/ethereum-yellow-paper-explained?r=1hy531&utm_campaign=post&utm_medium=web)
              
            
 ### LEARNING EXPERIENCE
@@ -36,9 +39,6 @@
 • Completed [Full Stack Web3 Development Course with Javascript and Hardhat by Patrick Collins](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 
 • Completed `Ethernaut`
-
-### Personal Blog
-[Ethereum Yellow Paper Explained](https://pheonix244001.substack.com/p/ethereum-yellow-paper-explained?r=1hy531&utm_campaign=post&utm_medium=web)
 
 
 ### Internships
