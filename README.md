@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pheonix </h1>
-<h3 align="center">A passionate security researcher switching from web2 security to web3 security </h3>
+<h3 align="center">A passionate security researcher  </h3>
 
 <p align="left"> <a href="https://twitter.com/pheonix244001" target="blank"><img src="https://img.shields.io/twitter/follow/pheonix244001?logo=twitter&style=for-the-badge" alt="pheonix244001" /></a> </p>
 
