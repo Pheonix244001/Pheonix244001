@@ -13,15 +13,18 @@
 
 ## **Smart Contract Security Experience**
 
+###  **Web3 Security Researcher at [QuillAudits](https://github.com/Quillhash)**
+<p></p>
 
-###  CODE4RENA / SHERLOCK 
+
+###   Code4rena  / Sherlock 
 [My participated contests in Code4rena and Sherlock](https://github.com/Pheonix244001/Participated-Contests.git)
 
-### Personal Blog
+###  Personal Blog
 [Ethereum Yellow Paper Explained](https://pheonix244001.substack.com/p/ethereum-yellow-paper-explained?r=1hy531&utm_campaign=post&utm_medium=web)
              
            
-### LEARNING EXPERIENCE
+#### LEARNING EXPERIENCE
 
 • Completed `Secureuem Bootcamp`
   - 📝 My Securuem Database
@@ -41,7 +44,7 @@
 • Completed `Ethernaut`
 
 
-### Internships
+### Previous Internships
             GURUGRAM POLICE CYBERSECURITY SUMMER INTERNSHIP AT HARYANA POLICE
             June 2021 – July 2021
             CYBERSECURITY INTERNSHIP AT JPMORGAN CHASE & CO.
